@@ -14,11 +14,7 @@
   - [Getting started](#getting-started)
   - [Live demo](#live-demo)
   - [Built with](#built-with)
-  - [Contributing](#contributing)
-  - [Versioning](#versioning)
-  - [Authors](#authors)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
+  
 
 ## Short description
 
@@ -47,5 +43,6 @@ We have identified the use of mobile technology to reduce food waste management 
 
 ## Project roadmap
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
+
 ![Roadmap](https://user-images.githubusercontent.com/61909674/122585863-95eeaf80-d079-11eb-8a7e-11b3c51f47c2.jpeg)
 
