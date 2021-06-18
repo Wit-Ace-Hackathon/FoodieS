@@ -1,7 +1,6 @@
 # FoodieS
 ## Contents
 
-- [Submission or project name](#submission-or-project-name)
   - [Contents](#contents)
   - [Short description](#short-description)
     - [What's the problem?](#whats-the-problem)
