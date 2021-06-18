@@ -41,4 +41,4 @@ We have identified the use of mobile technology to reduce food waste management 
 ## The architecture
 
 ## Long description
-[More detail is available here](./DESCRIPTION.md)
+[More detail is available here](./long-Description.md)
