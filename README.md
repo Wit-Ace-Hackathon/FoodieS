@@ -30,7 +30,7 @@ We have identified the use of mobile technology to reduce food waste management 
 
 ## Demo video
 
-[![Watch the video]
+[![Watch the video](https://youtu.be/6nuVzsOlF4Y)
 
 ## The architecture
 
