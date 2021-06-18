@@ -42,6 +42,12 @@ We have identified the use of mobile technology to reduce food waste management 
 [More detail is available here](./long-Description.md)
 
 ## Project roadmap
+
+The project currently does the following things.
+-Search for food according to pincode.
+-Become a Seller by selling the extra food.
+-Read blogs and gain knowledge on sustainability.
+
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
 
 ![Roadmap](https://user-images.githubusercontent.com/61909674/122585863-95eeaf80-d079-11eb-8a7e-11b3c51f47c2.jpeg)
