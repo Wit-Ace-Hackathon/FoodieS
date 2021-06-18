@@ -48,9 +48,9 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 
 ## Built with
 
-Html 5
-CSS
-Bootstrap 
-MySql. 
-PHP 
-IBM Watson Assistant
+-Html 5
+-CSS
+-Bootstrap 
+-MySql. 
+-PHP 
+-IBM Watson Assistant
