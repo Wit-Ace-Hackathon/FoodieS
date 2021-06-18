@@ -60,6 +60,7 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 -Html 5<br>
 -CSS <br>
 -Bootstrap <br>
+-JavaScript<br>
 -MySql. <br>
 -PHP <br>
 -IBM Watson Assistant<br>
