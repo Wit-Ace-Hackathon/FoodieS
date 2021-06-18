@@ -40,7 +40,11 @@ We have identified the use of mobile technology to reduce food waste management 
 
 ## The architecture
 
-![WhatsApp Image 2021-06-18 at 8 00 36 PM](https://user-images.githubusercontent.com/61909674/122585354-0c3ee200-d079-11eb-938f-38033c29d997.jpeg)
+![System Architecture](https://user-images.githubusercontent.com/61909674/122585354-0c3ee200-d079-11eb-938f-38033c29d997.jpeg)
 
 ## Long description
 [More detail is available here](./long-Description.md)
+
+## Project roadmap
+See below for our proposed schedule on next steps after Call for Code 2021 submission.
+![Roadmap](https://user-images.githubusercontent.com/61909674/122585695-650e7a80-d079-11eb-82d7-d01dec774043.jpeg)
