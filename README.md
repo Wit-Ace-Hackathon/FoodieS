@@ -43,7 +43,7 @@ We have identified the use of mobile technology to reduce food waste management 
 
 ## Project roadmap
 
-The project currently does the following things.
+The project currently does the following things.<br>
 -Search for food according to pincode. <br>
 -Become a Seller by selling the extra food.<br>
 -Read blogs and gain knowledge on sustainability.<br>
@@ -54,9 +54,9 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 
 ## Built with
 
--Html 5
--CSS
--Bootstrap 
--MySql. 
--PHP 
--IBM Watson Assistant
+-Html 5<br>
+-CSS <br>
+-Bootstrap <br>
+-MySql. <br>
+-PHP <br>
+-IBM Watson Assistant<br>
