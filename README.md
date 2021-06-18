@@ -40,5 +40,7 @@ We have identified the use of mobile technology to reduce food waste management 
 
 ## The architecture
 
+![WhatsApp Image 2021-06-18 at 8 00 36 PM](https://user-images.githubusercontent.com/61909674/122585354-0c3ee200-d079-11eb-938f-38033c29d997.jpeg)
+
 ## Long description
 [More detail is available here](./long-Description.md)
