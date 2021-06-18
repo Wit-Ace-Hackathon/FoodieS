@@ -37,6 +37,11 @@ We have identified the use of mobile technology to reduce food waste management 
 
 ![System Architecture](https://user-images.githubusercontent.com/61909674/122585354-0c3ee200-d079-11eb-938f-38033c29d997.jpeg)
 
+The users navigates to the site after sing in / sign up. 
+They can both search for food and give their extra food. 
+Watson bot of IBM service can assists users for their queries. 
+We have used php scripts to upload and retrieve data. These php scripts  execute sql commands on the database in order to perform the required operation.
+
 ## Long description
 [More detail is available here](Long-description.md)
 
