@@ -29,8 +29,7 @@ Luckily, food waste is most definitely a solvable problem if consumers, business
 We have identified the use of mobile technology to reduce food waste management and built a website that allows people to share their extra food items with people in need. This app will enable users to register, login, view food items, and log out. Any user in need can see all the food images shared by different users and can see the details.
 
 ## Demo video
-
-[![Watch the video](https://youtu.be/6nuVzsOlF4Y)
+(https://youtu.be/6nuVzsOlF4Y)
 
 ## The architecture
 
