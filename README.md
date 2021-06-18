@@ -47,4 +47,5 @@ We have identified the use of mobile technology to reduce food waste management 
 
 ## Project roadmap
 See below for our proposed schedule on next steps after Call for Code 2021 submission.
-![Roadmap](https://user-images.githubusercontent.com/61909674/122585695-650e7a80-d079-11eb-82d7-d01dec774043.jpeg)
+![Roadmap](https://user-images.githubusercontent.com/61909674/122585863-95eeaf80-d079-11eb-8a7e-11b3c51f47c2.jpeg)
+
