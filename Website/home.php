@@ -178,7 +178,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && $_POST['search'] != '') {
     <h2> FOOD DETAILS </h2> </div>
 <br> <br> <br>
 <div class="background"> <form name="Seller Form" action = "scripts/sell.php" method="post" enctype="multipart/form-data">
-        <table background = "images/fooodd.jpg" align="center" border="2s" bordercolor="black" cellspacing="4" cellpadding="10">
+        <table background = "images/Fooodd.jpg" align="center" border="2s" bordercolor="black" cellspacing="4" cellpadding="10">
             <tr>
                 <td> <label for="fname" class="required"> Full name: </label> <br>
                     <input type="text" id="fname" name="fname"></td>
